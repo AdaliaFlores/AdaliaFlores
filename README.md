@@ -52,5 +52,5 @@ Apasionada por el backend, la ciberseguridad y la inteligencia artificial.
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/adalia-flores-escobar-a601013b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adalia-flores-escobar-a601013b2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adaliaflores13@gmail.com)
