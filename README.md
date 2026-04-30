@@ -18,24 +18,33 @@ Apasionada por el backend, la ciberseguridad y la inteligencia artificial.
 ## Tecnologías y herramientas
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+<p align="left">
+  <img src="./assets/Python-logo.png" width="110px" />
+  <img src="./assets/java icon.png" width="110px" />
+  <img src="./assets/PHP-logo.png" width="110px" />
+</p>
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p align="left">
+  <img src="./assets/HTML5.png" width="110px" />
+  <img src="./assets/React-icon.png" width="110px" />
+</p>
 
 ### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="./assets/Postgresql.png" width="110px" />
+  <img src="./assets/mysql.png" width="110px" />
+</p>
 
 ### Herramientas
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="left">
+  <img src="./assets/PyCharm.png" width="110px" />
+  <img src="./assets/Git_icon.png" width="110px" />
+</p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ## Intereses
 - Ciberseguridad
