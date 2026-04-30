@@ -40,10 +40,7 @@ Apasionada por el backend, la ciberseguridad y la inteligencia artificial.
 <p align="left">
   <img src="./assets/PyCharm.png" width="110px" />
   <img src="./assets/Git_icon.png" width="110px" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="./assets/Visual_Studio_Code.png" width="110px" />
 </p>
 
 ## Intereses
